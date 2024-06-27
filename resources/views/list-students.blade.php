@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container mt-3">
-    <h1 class="pb-4">Danh sách sinh viên</h1>
+        <h1 class="alert alert-success pb-4 ">Danh sách sinh viên</h1>
     <table class="table table-hover table-bordered">
         <thead>
         <tr>
